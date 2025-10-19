@@ -81,10 +81,10 @@ All participants will:
 | Akash Chekka | Software Consultant | Microsoft |
 | Manikanta B | Consultant App | Microsoft |
 | Ruchi Gupta | Tech Consultant | Microsoft |
-| Farhan Ahmed | Mentor |
-| Srikanth | Mentor 
-| Karthikeya | Volunteer Lead 
-| Deekshith | Volunteer Lead 
+| Farhan Ahmed | Mentor | HSBC |
+| Srikanth | Mentor | S&P GLOBAL |
+| Karthikeya | Volunteer Lead |
+| Deekshith | Volunteer Lead |
 
 
 
@@ -158,3 +158,4 @@ Use and share with attribution.
 ---
 
 "# ai-agents-in-action-event" 
+
